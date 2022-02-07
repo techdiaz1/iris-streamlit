@@ -1,5 +1,5 @@
 import streamlit as st  
-import numpy as np
+import numpy as np 
 from sklearn.datasets import load_iris                 #import the iris dataset 
 from sklearn.neighbors import KNeighborsClassifier     #import the KNN algorithm 
 st.title("IRIS FLOWER CLASSIFICATION")
